@@ -1,4 +1,4 @@
-# Percolation
+# Percolation Simulation
 
 A C++23 implementation of the Percolation problem using the Union-Find algorithm.
 
